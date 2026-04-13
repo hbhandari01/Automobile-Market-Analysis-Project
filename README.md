@@ -28,7 +28,7 @@ This project focuses on analyzing automobile market data using Microsoft Excel. 
 
 ---
 
-## 📂 Dataset Description
+## 📂 Dataset
 
 The dataset includes information about various cars with attributes such as:
 
@@ -48,8 +48,6 @@ The dataset includes information about various cars with attributes such as:
 * Removed duplicate records
 * Handled missing/null values
 * Standardized inconsistent data formats
-* Converted data types where necessary
-* Created new calculated columns for better analysis
 
 ---
 
@@ -68,7 +66,6 @@ The dataset includes information about various cars with attributes such as:
 * Interactive filters for brand and fuel type
 * Visual comparison of prices
 * Trend analysis using charts
-* KPI indicators (Average Price, Count of Cars, etc.)
 
 ---
 
@@ -101,7 +98,7 @@ The dataset includes information about various cars with attributes such as:
 ## 🙋‍♂️ Author
 
 **Himanshu Bhandari**
-Aspiring Data Analyst | Skilled in Excel, SQL, Tableau, and Python
+Data Analyst | Aspiring Data Scientist
 
 ---
 
