@@ -1,4 +1,4 @@
-# 🚗 Automobile Market Analysis
+# Automobile Market Analysis
 
 ## 📌 Project Overview
 
@@ -69,7 +69,7 @@ The dataset includes information about various cars with attributes such as:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 * Premium brands have significantly higher average prices
 * Automatic cars tend to be more expensive than manual ones
@@ -78,7 +78,7 @@ The dataset includes information about various cars with attributes such as:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. Download the Excel files from the repository
 2. Open the dashboard file in Microsoft Excel
@@ -87,7 +87,7 @@ The dataset includes information about various cars with attributes such as:
 
 ---
 
-## 💡 Future Improvements
+## Future Improvements
 
 * Integrate Power BI or Tableau for advanced visualization
 * Apply statistical analysis for deeper insights
@@ -95,10 +95,10 @@ The dataset includes information about various cars with attributes such as:
 
 ---
 
-## 🙋‍♂️ Author
+## Author
 
 **Himanshu Bhandari**
- Data Analyst | Aspiring Data Scientist
+ Data Analyst & Data Science Enthusiast
 
 ---
 
