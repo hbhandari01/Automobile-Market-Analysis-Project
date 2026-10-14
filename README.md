@@ -91,7 +91,7 @@ The dataset includes information about various cars with attributes such as:
 
 * Integrate Power BI or Tableau for advanced visualization
 * Apply statistical analysis for deeper insights
-* Build predictive models using ML (e.g., price prediction)
+* Build predictive models using Python (ML) (e.g., price prediction)
 
 ---
 
